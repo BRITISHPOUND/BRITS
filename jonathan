@@ -1,0 +1,1 @@
+curl -s https://api.developer.coinbase.com/rpc/v1/base/THL9AIP7hb8ba_S8QI86XRzAmrBDoE_y -H "Content-Type: application/json" -d '{"jsonrpc": "2.0", "id": 1, "method": "eth_blockNumber", "params": []}'
